@@ -215,3 +215,7 @@ Freefall
 Sound_vs_Fire
 unseen
 data
+
+# Model
+*.h5
+*.keras
